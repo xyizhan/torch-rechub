@@ -229,6 +229,7 @@ export default defineConfig({
               items: [
                 { text: '召回模型训练指南', link: '/zh/blog/match' },
                 { text: '排序模型训练指南', link: '/zh/blog/rank' },
+                { text: '生成式推荐发展脉络', link: '/zh/blog/generative_recommendation_roadmap' },
                 { text: 'HLLM 复现说明', link: '/zh/blog/hllm_reproduction' },
                 { text: 'HSTU 复现说明', link: '/zh/blog/hstu_reproduction' }
               ]

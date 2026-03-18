@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)",
+    "year": 2022,
+    "theme": "unified text formulation",
+    "url": "https://arxiv.org/abs/2203.13366",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems",
+    "year": 2022,
+    "theme": "foundation recommender model",
+    "url": "https://arxiv.org/abs/2205.08084",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "Generative Recommendation: Towards Next-generation Recommender Paradigm",
+    "year": 2023,
+    "theme": "paradigm definition",
+    "url": "https://arxiv.org/abs/2304.03516",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "DiffuRec: A Diffusion Model for Sequential Recommendation",
+    "year": 2023,
+    "theme": "diffusion sequential recommendation",
+    "url": "https://arxiv.org/abs/2304.00686",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation",
+    "year": 2023,
+    "theme": "llm alignment",
+    "url": "https://arxiv.org/abs/2305.00447",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach",
+    "year": 2023,
+    "theme": "instruction-following recommendation",
+    "url": "https://arxiv.org/abs/2305.07001",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "Large Language Models are Zero-Shot Rankers for Recommender Systems",
+    "year": 2023,
+    "theme": "llm reranking",
+    "url": "https://arxiv.org/abs/2305.08845",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "Recommender Systems with Generative Retrieval",
+    "year": 2023,
+    "theme": "generative retrieval / TIGER",
+    "url": "https://arxiv.org/abs/2305.05065",
+    "verification": "Checked against arXiv abs page title."
+  },
+  {
+    "title": "Generative Next-Basket Recommendation",
+    "year": 2023,
+    "theme": "next-basket generation",
+    "url": "https://doi.org/10.1145/3604915.3608823",
+    "verification": "Checked against the DOI, plus the RecSys 2023 accepted contributions entry."
+  },
+  {
+    "title": "Recommender Systems in the Era of Large Language Models (LLMs)",
+    "year": 2024,
+    "theme": "survey",
+    "url": "https://arxiv.org/abs/2307.02046",
+    "verification": "Checked against arXiv abs page title and journal reference on the abs page."
+  },
+  {
+    "title": "Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations",
+    "year": 2024,
+    "theme": "industrial-scale generative recommendation",
+    "url": "https://proceedings.mlr.press/v235/zhai24a.html",
+    "verification": "Checked against the official PMLR paper page title and venue."
+  }
+]
